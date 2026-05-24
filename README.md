@@ -1,6 +1,4 @@
-# Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System (Peter Diaz)<img width="468" height="252" alt="10" src="https://github.com/user-attachments/assets/024b6009-3728-4adf-b74d-dbbdd606564c" />
-<img width="468" height="252" alt="10" src="https://github.com/user-attachments/assets/f87f3fd5-0541-45c0-998f-e18be2f999ea" />
-
+# Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System (Peter Diaz)
 
 ## Executive Summary
 
@@ -18,7 +16,7 @@ My final recommendation was:
 
 > **Proceed with conditions. Meridian should not approve unrestricted production deployment until fairness testing, proxy-bias review, reason code validation, human oversight triggers, appeal procedures, vendor evidence review, monitoring thresholds, and governance committee approval are completed.**
 
-<img width="468" height="252" alt="10" src="https://github.com/user-attachments/assets/fa7698fc-2d8b-4202-8508-1e93319551cb" />
+<img width="1381" height="745" alt="CleanShot 2026-05-24 at 14 39 10" src="https://github.com/user-attachments/assets/576ad27d-e76e-4353-b3b4-82413d3b75e6" />
 
 > **Caption:** This screenshot shows the EU AI Act FRIA summary for the Meridian Automated Loan Underwriting System, including stakeholder consultation status, flagged rights, risk score, and conditional approval recommendation. 
 
