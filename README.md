@@ -76,8 +76,7 @@ My answer:
 
 ### 1. Use Case Registration
 
-<img width="1315" height="1000" alt="CleanShot 2026-05-24 at 11 28 08" src="https://github.com/user-attachments/assets/cdad4ecc-388e-4d33-bf8a-f9add493c2ad" />
-
+<img width="892" height="1087" alt="CleanShot 2026-05-24 at 18 26 03" src="https://github.com/user-attachments/assets/d793522e-a91f-492b-8162-09b63ca6bf59" />
 
 > **Caption:** This screenshot shows the Meridian Automated Loan Underwriting System registered as a high-risk AI use case in Verifywise, with applicable frameworks, approval workflow, and pre-production governance status.
 
